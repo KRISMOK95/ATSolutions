@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KRISMOK95/ATSolutions.git/static/css/main.f313d253.css",
+    "main.js": "/KRISMOK95/ATSolutions.git/static/js/main.840150ce.js",
+    "static/media/laptop.jpg": "/KRISMOK95/ATSolutions.git/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/KRISMOK95/ATSolutions.git/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/KRISMOK95/ATSolutions.git/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/KRISMOK95/ATSolutions.git/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/KRISMOK95/ATSolutions.git/index.html",
+    "main.f313d253.css.map": "/KRISMOK95/ATSolutions.git/static/css/main.f313d253.css.map",
+    "main.840150ce.js.map": "/KRISMOK95/ATSolutions.git/static/js/main.840150ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f313d253.css",
+    "static/js/main.840150ce.js"
+  ]
+}
