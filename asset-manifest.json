@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ATSolutions/static/css/main.f313d253.css",
+    "main.js": "/ATSolutions/static/js/main.bb4acdc5.js",
+    "static/media/laptop.jpg": "/ATSolutions/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/ATSolutions/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/ATSolutions/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/ATSolutions/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/ATSolutions/index.html",
+    "main.f313d253.css.map": "/ATSolutions/static/css/main.f313d253.css.map",
+    "main.bb4acdc5.js.map": "/ATSolutions/static/js/main.bb4acdc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f313d253.css",
+    "static/js/main.bb4acdc5.js"
+  ]
+}
